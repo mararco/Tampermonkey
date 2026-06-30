@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Hub DEA Bridge - Quality
 // @namespace    package-detail-quality
-// @version      2.0
+// @version      1.0
 // @description  Cruza paquetes Store del Sort Planning con fallos DEA. Fetch estacion a estacion, descarta no-DEA y muestra resultado con bucket/sub_bucket.
 // @author       mararco
 // @match        https://eu.sort.planning.last-mile.a2z.com/*
